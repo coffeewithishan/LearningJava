@@ -7,5 +7,8 @@ public class charcter_04 {
         System.out.println(value1);   // A
         System.out.println(value2);  // B
         System.out.println(value3); // C
+
+        String greet = "H! every one";
+        System.out.println(greet);
     }
 }

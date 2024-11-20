@@ -15,7 +15,7 @@ public class break_continue_05 {
         // eg of continue
         for(int k = 0; k <= 5; k ++){
             //System.out.println(k);
-            if(k == 3){
+            if(k == 3){ // 3 will be skipped
                 
                 continue;
             }
